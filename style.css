@@ -1,0 +1,19 @@
+.titre_h1{
+    transition:.4s;
+  }
+  
+  /*/.titre_h1:hover{
+    color:red
+  }*/
+  
+  .colored1{
+    color:red;
+  }
+
+  .colored2{
+    color:green;
+  }
+
+  .top{
+      margin-bottom: 1rem;
+  }
